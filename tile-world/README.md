@@ -40,9 +40,3 @@ Solution:
 4 5 6
 7 8 0
 
-
-## Acknowledgments
-
-Inspired by the principles of Genetic Network Programming and its application to solving optimization problems.
-
-
